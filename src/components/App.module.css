@@ -1,8 +1,12 @@
 .app {
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 500px;
     margin: 20px auto;
+}
+
+h1 {
+    margin: 15px 0 10px 0;
 }
 
 h2 {
